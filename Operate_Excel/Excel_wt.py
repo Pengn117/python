@@ -1,3 +1,5 @@
+#该脚本用来读取目标Excel中的内容
+
 import xlwt
 import xlrd
 #读原始数据（所有的全局变量及数据源）
