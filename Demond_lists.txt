@@ -2,4 +2,5 @@
 
 1. 需要从源数据excel文件中，取出目标excel文件中对应的目标值
 						------Operate_Excel
-2. 
+2. 需要从源数据txt中提取所需字段到excel中...
+   目标，算出方差，绘制abnormal折线图
