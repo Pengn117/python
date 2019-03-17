@@ -12,7 +12,7 @@
 #display optical-module extend information slot 3 card 0 | no-more
 
 #存储格式
-#slot/card/port    lane    TX     RX
+#slot/card/port    lane    TX     RXsdsd
 #3/0/0             1    0.491     1.013
 #3/0/0             2    1.222     2.133
 #3/0/0             3    2.253     7.323
