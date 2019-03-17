@@ -10,4 +10,4 @@ while True:
     
     udp_client.sendto(msg.encode('utf-8'), ip_port)  #获取日期
     data, addr = udp_client.recvfrom(buffer_size)
-    print('bear:ntp服务器的标准时间是：',data.decode('utf-8'))
+    print('ntpbear&&Peng服务器的标准时间是：',data.decode('utf-8'))
